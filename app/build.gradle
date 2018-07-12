@@ -1,0 +1,66 @@
+apply plugin: 'com.android.application'
+
+android {
+    signingConfigs {
+        config {
+            keyAlias 'autoSMS'
+            keyPassword '123456'
+            storeFile file('../autoSMS.jks')
+            storePassword '123456'
+        }
+    }
+    compileSdkVersion 24
+    buildToolsVersion "24.0.2"
+    defaultConfig {
+        applicationId "com.jyt.autosms"
+        minSdkVersion 14
+        targetSdkVersion 22
+        versionCode 1
+        versionName "1.01"
+        testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
+        signingConfig signingConfigs.config
+        ndk {
+            //设置支持的SO库架构
+            abiFilters "armeabi","armeabi-v7a", "x86","arm64-v8a","x86_64"
+        }
+
+    }
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+            signingConfig signingConfigs.config
+        }
+        debug {
+            signingConfig signingConfigs.config
+        }
+    }
+    productFlavors {
+    }
+}
+
+//获取时间戳
+def getDate() {
+    def date = new Date()
+    def formattedDate = date.format('yyyyMMddHH')
+    return formattedDate
+}
+
+dependencies {
+    compile fileTree(include: ['*.jar'], dir: 'libs')
+    androidTestCompile('com.android.support.test.espresso:espresso-core:2.2.2', {
+        exclude group: 'com.android.support', module: 'support-annotations'
+    })
+    compile 'com.android.support:appcompat-v7:24.2.1'
+    testCompile 'junit:junit:4.12'
+    compile 'org.greenrobot:eventbus:3.0.0'
+    compile 'com.github.orhanobut:hawk:1.23'
+    compile 'com.google.code.gson:gson:2.7'
+    //网络框架
+    compile 'com.zhy:okhttputils:2.6.2'
+    compile 'com.squareup.okhttp3:logging-interceptor:3.3.1'
+
+    compile 'com.netease.nis.plugin:bugrpt:latest.release'
+    compile 'com.android.support:percent:24.2.1'
+
+}

@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\v7\Desktop\AutoSMS\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="C:\Users\v7\Desktop\AutoSMS\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-24.2.1_cc0f794b85827d22c81f81a96ddaffeef11559c6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\v7\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.7\751f548c85fa49f330cecbb1875893f971b33c4e\gson-2.7.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
+        <dex dex="C:\Users\v7\Desktop\AutoSMS\app\build\intermediates\pre-dexed\debug\gson-2.7_2452cd25fe2476cd793d742a4a66a7d10d20892e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\v7\Desktop\AutoSMS\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="C:\Users\v7\Desktop\AutoSMS\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-24.2.1_ed8fed06bd112cae35dc4e1536b3298ff164a9c2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\v7\Desktop\AutoSMS\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="C:\Users\v7\Desktop\AutoSMS\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-24.2.1_a8d45a69055f062f8032de13751fc5dbab3cb167.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\v7\Desktop\AutoSMS\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="C:\Users\v7\Desktop\AutoSMS\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-24.2.1_f29a3dc4ac56df93d167df75564394b409397488.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\v7\Desktop\AutoSMS\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="C:\Users\v7\Desktop\AutoSMS\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-24.2.1_9e87d1584241a8c17fbf7769402ab1da2e0814c7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\v7\Desktop\AutoSMS\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="C:\Users\v7\Desktop\AutoSMS\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-24.2.1_9dcd93703811c2a5a502279d3a6cc881eaaab992.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\v7\Desktop\AutoSMS\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\v7\Desktop\AutoSMS\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-24.2.1_ca0017d9c32ea1f9455d67fdb2c93d008cba7f57.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\v7\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.3.1\19047bdb6a4fc00a44124f64ca98e88fc204e7e3\okhttp-3.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="19047bdb6a4fc00a44124f64ca98e88fc204e7e3">
+        <dex dex="C:\Users\v7\Desktop\AutoSMS\app\build\intermediates\pre-dexed\debug\okhttp-3.3.1_e62184bd1fd3398a961644f31599cba7e5f875ba.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\v7\Desktop\AutoSMS\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="C:\Users\v7\Desktop\AutoSMS\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_611c6bb03feabbb1ace979fe9c07b161338957c9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\v7\Desktop\AutoSMS\app\build\intermediates\exploded-aar\com.android.support\percent\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="c394e9a7e1552a4499c7d7d25e7eccd6a533b6df">
+        <dex dex="C:\Users\v7\Desktop\AutoSMS\app\build\intermediates\pre-dexed\debug\com.android.support-percent-24.2.1_e041b9b782cf80887132881877aa3ff239cc522c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\v7\Desktop\AutoSMS\app\build\intermediates\exploded-aar\com.zhy\okhttputils\2.6.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="155fef2600f48631a9e9665c0873743b6d24e324">
+        <dex dex="C:\Users\v7\Desktop\AutoSMS\app\build\intermediates\pre-dexed\debug\com.zhy-okhttputils-2.6.2_2a716027a9e6bf509cfd957a4b5c39c7bf4ed0dd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\v7\Desktop\AutoSMS\app\build\intermediates\exploded-aar\com.netease.nis.plugin\bugrpt\3.7.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="737bac38c97d0ea45d205461d0a387af9fccd6b7">
+        <dex dex="C:\Users\v7\Desktop\AutoSMS\app\build\intermediates\pre-dexed\debug\com.netease.nis.plugin-bugrpt-3.7.2_ca52e2b2dbd2f8437f442b6fb1b7d3c9e6c4df80.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\SDK\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="C:\Users\v7\Desktop\AutoSMS\app\build\intermediates\pre-dexed\debug\support-annotations-24.2.1_641b6e9427d006db85730e9b32de6e641d2eaae1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\v7\Desktop\AutoSMS\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="C:\Users\v7\Desktop\AutoSMS\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_5017959e195a5eff52c62e42279485ddd14fa273.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\v7\Desktop\AutoSMS\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="C:\Users\v7\Desktop\AutoSMS\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_6f063e42c8705cf91bb0369b5dc406f9c04c5646.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\v7\Desktop\AutoSMS\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="C:\Users\v7\Desktop\AutoSMS\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-24.2.1_7d63c18b94176c36e1dd67349850f8b10fd7ea35.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\v7\Desktop\AutoSMS\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="C:\Users\v7\Desktop\AutoSMS\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_c0a525e6955312a438e1d290d8b564f5b2f76175.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\v7\.gradle\caches\modules-2\files-2.1\org.greenrobot\eventbus\3.0.0\ddd99896e9569eaababbe81b35d80e1b91c4ad85\eventbus-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="ddd99896e9569eaababbe81b35d80e1b91c4ad85">
+        <dex dex="C:\Users\v7\Desktop\AutoSMS\app\build\intermediates\pre-dexed\debug\eventbus-3.0.0_d7d7f4b5724d4186a7736ea807c6e20568bcd3a3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\v7\Desktop\AutoSMS\app\build\intermediates\exploded-aar\com.github.orhanobut\hawk\1.23\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="38c7a93b97bb39c7b731b6e4900c5830ae1fd935">
+        <dex dex="C:\Users\v7\Desktop\AutoSMS\app\build\intermediates\pre-dexed\debug\com.github.orhanobut-hawk-1.23_9ff84deb85c607cbc9aef0557dfe8b1b1d5b35f3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\v7\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.8.0\5ea7af56cc7c567ed9856d99efb30740e9b17ff\okio-1.8.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="05ea7af56cc7c567ed9856d99efb30740e9b17ff">
+        <dex dex="C:\Users\v7\Desktop\AutoSMS\app\build\intermediates\pre-dexed\debug\okio-1.8.0_67027b9add56bc29bb4eb243386c17c613d0e2c3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\v7\Desktop\AutoSMS\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="C:\Users\v7\Desktop\AutoSMS\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-24.2.1_8686eae9ec5113fcaaf361c805a2895d712f5c1d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\v7\Desktop\AutoSMS\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="C:\Users\v7\Desktop\AutoSMS\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_b84019a4e1440713491ea66c877b0db9ab29be98.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\v7\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\logging-interceptor\3.3.1\99ce730034c6f5aaed710d1e0e9df95e8714ed5f\logging-interceptor-3.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="99ce730034c6f5aaed710d1e0e9df95e8714ed5f">
+        <dex dex="C:\Users\v7\Desktop\AutoSMS\app\build\intermediates\pre-dexed\debug\logging-interceptor-3.3.1_c9415cd3f8398de99983ad89852237e33f8c2391.jar" />
+    </item>
+
+</items>

@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.percent.PercentRelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bakcground"
+    >
+
+    <ImageView
+        android:src="@drawable/icon"
+        android:layout_centerHorizontal="true"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:scaleType="centerInside"
+        app:layout_heightPercent="14%"
+        app:layout_widthPercent="20%"
+        app:layout_marginTopPercent="13%"
+        />
+
+    <Button
+        android:textSize="@dimen/btnTextSize"
+        android:layout_centerHorizontal="true"
+        app:layout_heightPercent="8%"
+        app:layout_widthPercent="80%"
+        app:layout_marginTopPercent="58%"
+        android:background="@drawable/sel_button"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:enabled="false"
+        android:id="@+id/button"
+        android:text="开始运行"
+        android:textColor="#fff"
+        android:shadowColor="#000000"
+        android:shadowDx="1"
+        android:shadowDy="1"
+        android:shadowRadius="10"
+        />
+
+    <LinearLayout
+        android:layout_centerHorizontal="true"
+        app:layout_marginTopPercent="40%"
+        app:layout_widthPercent="68%"
+        android:gravity="center"
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        >
+        <TextView
+            android:textColor="#80ffffff"
+            android:text="SIM 序列号"
+            android:id="@+id/simNum"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="@dimen/textSize" />
+        
+        <View
+            android:layout_marginTop="4dp"
+            android:background="#80ffffff"
+            android:layout_width="match_parent"
+            android:layout_height="1px"/>
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_centerHorizontal="true"
+        app:layout_marginTopPercent="49%"
+        app:layout_widthPercent="68%"
+        android:gravity="center"
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        >
+        <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
+            <TextView
+                android:textColor="#80ffffff"
+                android:text="当前手机号码"
+                android:id="@+id/phoneNumber"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="@dimen/textSize" />
+            <TextView
+                android:textSize="@dimen/textSize"
+                android:textColor="#80ffffff"
+                android:text=" | "
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+            <TextView
+                android:id="@+id/score"
+                android:textSize="@dimen/textSize"
+                android:textColor="#80ffffff"
+                android:text="积分"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+        </LinearLayout>
+
+
+        <View
+            android:layout_marginTop="4dp"
+            android:background="#80ffffff"
+            android:layout_width="match_parent"
+            android:layout_height="1px"/>
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/ruleLayout"
+        android:layout_centerHorizontal="true"
+        app:layout_marginTopPercent="71%"
+        app:layout_widthPercent="68%"
+        android:gravity="center"
+        android:orientation="horizontal"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        >
+        <View
+            android:layout_gravity="center"
+            android:layout_weight="1"
+            android:layout_marginTop="4dp"
+            android:background="#80ffffff"
+            android:layout_width="match_parent"
+            android:layout_height="1px"/>
+        <TextView
+            android:textColor="#80ffffff"
+            android:text=" 智能短信合作规则 "
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="@dimen/textSize"
+            android:id="@+id/ruleTitle" />
+
+        <View
+            android:layout_gravity="center"
+            android:layout_weight="1"
+            android:layout_marginTop="4dp"
+            android:background="#80ffffff"
+            android:layout_width="match_parent"
+            android:layout_height="1px"/>
+    </LinearLayout>
+
+    <TextView
+        app:layout_marginTopPercent="76%"
+        android:textColor="#80ffffff"
+        android:layout_centerHorizontal="true"
+        app:layout_widthPercent="68%"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:text="1. 新用户首次使用需添加APP为信任\n2. 每张SIM绑定手机号码后可申请开通\n3. 审核通过(登记资料)可开始赚佣金\n4. 佣金满50元可申请结算"
+        android:textSize="@dimen/textSize"
+        android:id="@+id/ruleContent" />
+
+    <TextView
+        android:layout_centerHorizontal="true"
+        app:layout_marginTopPercent="90%"
+        android:textColor="#33ffffff"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="客服QQ: 3001286412 审核时间: 11:00~21:00"
+        android:textSize="@dimen/textSize"
+        android:id="@+id/about" />
+
+    <TextView
+        android:layout_centerHorizontal="true"
+        app:layout_marginTopPercent="95%"
+        android:textColor="#33ffffff"
+        android:text="版本号 v1.02"
+        android:id="@+id/version"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="@dimen/textSize" />
+
+</android.support.percent.PercentRelativeLayout>

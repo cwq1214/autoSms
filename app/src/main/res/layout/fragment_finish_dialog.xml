@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="16dp">
+
+    <LinearLayout
+        android:paddingTop="30dp"
+        android:paddingBottom="30dp"
+        android:orientation="vertical"
+        android:background="@drawable/bg_dialog_info"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:padding="8dp"
+            android:layout_gravity="center"
+            android:textColor="#fff"
+            android:text="当前任务已发送完成"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+        <TextView
+            android:padding="8dp"
+            android:layout_gravity="center"
+            android:text="请退出软件，并更换SIM卡"
+            android:textColor="#fff"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+    </LinearLayout>
+
+    <TextView
+        android:layout_gravity="center"
+        android:textColor="#fff"
+        android:textSize="@dimen/btnTextSize"
+        android:gravity="center"
+        android:text="退出"
+        android:layout_width="wrap_content"
+        android:layout_height="48dp"
+        android:background="@drawable/bg_btn_nor"
+        android:shadowColor="#000000"
+        android:shadowDx="1"
+        android:shadowDy="1"
+        android:shadowRadius="10"
+        android:layout_marginTop="8dp"
+        android:id="@+id/done" />
+</LinearLayout>
